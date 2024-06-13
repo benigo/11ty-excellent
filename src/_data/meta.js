@@ -13,7 +13,7 @@ module.exports = {
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
-    opengraph_default: '/assets/images/IMG_20240612_205100.jpg', // fallback/default meta image
+    opengraph_default: '/assets/images/5d5cdae45dea4bf8b7aa94a489ffbaca.jpg', // fallback/default meta image
     opengraph_default_alt:
       'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
