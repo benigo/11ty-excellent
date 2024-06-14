@@ -66,4 +66,13 @@ eleventyExcludeFromCollections: true
   >
     <tspan x="160" y="600">{{ meta.siteName }} · {{ meta.url | replace("https://", "") | replace("http://", "") }}</tspan>
   </text>
+
+<!-- meta.njk -->
+<meta
+  property="og:image"
+  content="{{ meta.url }}
+  {% if (layout == 'post') %}/assets/images/social-preview/{{ title | slugify }}-preview.jpeg
+  {% else %}{{ meta.meta_data.opengraph_default }}
+  {% endif %}"
+/>
 </svg>
