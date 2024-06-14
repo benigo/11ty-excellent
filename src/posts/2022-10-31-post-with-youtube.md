@@ -6,6 +6,6 @@ youtube: true
 ---
 
 Ya! ini contoh lite-youtube web komponen terhubung disini.
-Klik icon 'play`; ada nada terdengar cukup menyenangkan dalam postingan video itu.
+Klik icon 'play`; ada nada terdengar cukup menyenangkan dalam postingan video ini.
 
 {% youtube 'Ah6je_bBSH8', 'Alberto Ballesteros - Artista Sin Obra' %}
