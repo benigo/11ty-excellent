@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: ' 18 Rooms Building Offers'
+description: 'Asking price offers start at $122,000 USD.'
 layout: 'home'
 blog:
   title: 'Blog'
