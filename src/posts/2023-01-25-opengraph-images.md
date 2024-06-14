@@ -1,10 +1,10 @@
 ---
-title: 'Open Graph images'
+title: 'Pemasangan Wermes'
 description: 'When you share your blog posts, a thumbnail image appears - the image we define as an Open Graph Image. This starter generates these images for your blog posts automatically.'
 date: 2024-06-14
 youtube: true
 ---
-## Watch the talk
+## Pemasangan Wermes
 
 {% youtube 'IePVYjlAjTQ', 'beni.zo – Be the browser’s mentor, not its micromanager' %}
 
