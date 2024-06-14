@@ -5,6 +5,8 @@ date: 2022-10-31
 youtube: true
 ---
 
-This starter uses Justin Ribeiro's lite-youtube web component. Add `youtube: true` to frontmatter to activate.
+Ya! ini contoh lite-youtube web komponen terhubung disini.
+Ada nada di postingan video itu.
+Add `youtube: true` to frontmatter to activate.
 
 {% youtube 'Ah6je_bBSH8', 'Alberto Ballesteros - Artista Sin Obra' %}
