@@ -7,6 +7,7 @@ youtube: true
 
 Ya! ini contoh lite-youtube web komponen terhubung disini.
 Ada nada di postingan video itu.
+
 Add `youtube: true` to frontmatter to activate.
 
 {% youtube 'Ah6je_bBSH8', 'Alberto Ballesteros - Artista Sin Obra' %}
