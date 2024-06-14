@@ -1,6 +1,6 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: '18 Rooms Offers',
+  siteName: 'beni.zo™',
   siteDescription:
     '@meta: Asking price offers start at $122,000 USD.',
   siteType: 'Person', // schema
