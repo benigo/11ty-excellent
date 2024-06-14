@@ -1,6 +1,6 @@
 ---
 title: 'Post with a video '
-description: "Add `youtube: true` to frontmatter to activate."
+description: "Klik icon 'play`; ada nada terdengar yang sangat mungkin, kali pertama Anda mendengarnya."
 date: 2024-06-14
 youtube: true
 ---
