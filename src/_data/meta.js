@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Eleventy Excellent',
+  siteName: '18 Rooms Building Offers',
   siteDescription:
-    'Eleventy starter based on the workflow suggested by buildexcellentwebsit.es.',
+    'Asking price offers start at $122,000 USD.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
