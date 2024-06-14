@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: ' 18 Rooms Building Offers'
+title: ' 18 Rooms Offers'
 description: 'Asking price offers start at $122,000 USD.'
 layout: 'home'
 blog:
