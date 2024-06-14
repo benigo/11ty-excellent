@@ -31,14 +31,14 @@ module.exports = {
   },
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
-    firma: 'Organization name',
-    street: '123 Main St.',
-    city: 'Ciudad',
-    state: 'Estado',
-    zip: '12345',
-    mobileDisplay: '+34 1234567',
-    mobileCall: ' +341234567',
-    email: 'hola@yoursite.com',
+    firma: 'beni.zo',
+    street: 'TDP 2 Kapling',
+    city: 'Bogor',
+    state: 'Indonesia',
+    zip: '16620',
+    mobileDisplay: '+62 858 8282 7510',
+    mobileCall: ' +6285882827510',
+    email: 'b3ny@msn.com',
     cif: ''
   },
   menu: {
