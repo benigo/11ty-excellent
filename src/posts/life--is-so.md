@@ -5,7 +5,7 @@ date: 2024-06-15
 ---
 ### Example image with a caption
 
-{% imagePlaceholder "./src/assets/images/social-preview/life-is-so-preview.jpeg", "The preview for social media", "Life is so" %}
+{% imagePlaceholder "./src/assets/images/social-preview/life-is-so-preview.jpg", "The preview for social media", "Life is so" %}
 
 ## CSS
 
