@@ -5,7 +5,7 @@ date: 2024-06-15
 ---
 ### Example image with a caption
 
-{% imagePlaceholder "./src/assets/images/opengraph-default.jpg", "The preview for social media", "Life is so" %}
+{% imagePlaceholder "./src/assets/images/social-preview/Life-is-so.jpeg", "The preview for social media", "Life is so" %}
 
 ## CSS
 
