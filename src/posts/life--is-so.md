@@ -1,6 +1,6 @@
 ---
 title: 'Life is so '
-description: "Eleventy's own build-time image transformations. Find more info on11ty.dev/docs/plugins/image/ and edit settings in config-folder."
+description: "Eleventy's own build-time image transformations. Find more info on11ty.dev/docs/plugins/image/ and edit settings in config-folder —"
 date: 2024-06-15
 ---
 ### Example image with a caption
