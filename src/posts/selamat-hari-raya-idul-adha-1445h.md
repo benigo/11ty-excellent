@@ -5,7 +5,7 @@ date: 2024-06-17
 youtube: true
 ---
 
-Ucapan Selamat Hari Raya Idul Adha 2024;
+Ucapan Selamat Hari Raya Idul Adha 2024 —
 
 {% youtube 'xmKYQhSc4HA', 'beni zo - Idul Adha 1445H/2024' %}
 
