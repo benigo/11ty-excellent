@@ -1,5 +1,5 @@
 ---
-title: 'Cara membersihkan kaki sapi sebelum dimasak '
+title: 'Cara membersihkan kaki sapi '
 description: "Kaki sapi merupakan bagian yang banyak digunakan untuk diambil kikil, tulang, dan sari kaldunya. Namun, banyak yang belum mengetahui cara membersihkan kaki sapi sebelum dimasak."
 date: 2024-06-17
 youtube: true
