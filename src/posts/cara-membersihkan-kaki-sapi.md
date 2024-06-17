@@ -10,8 +10,7 @@ Kaki sapi merupakan bagian yang banyak digunakan untuk diambil kikil, tulang, da
 Diperlukan lebih banyak proses untuk mengolah bagian kaki sapi. .
 Mereka tinggi kolagen, menjadikannya pilihan yang baik untuk hidangan yang membutuhkan waktu memasak lama, seperti semur atau sup. Namun, sebelum diolah menjadi makanan lezat, kaki sapi harus dibersihkan terlebih dahulu.
 
-## Cara Membersihkan Kaki Sapi
-Bersihkan dengan Dibakar:
+## Bersihkan dengan Dibakar
 
 {% youtube '09yVurBbrMI', 'beni zo - Idul Adha 1445H/2024' %}
 
