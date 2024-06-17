@@ -18,9 +18,6 @@ Ucapan selamat Hari Raya Idul Adha 2024 ini bisa dirangkai dengan berbagai kata-
 Selamat Hari Raya Idul Adha 1445 H/2024. Taqabbalallahu minna wa minkum! Semoga Allah memberkati semua kehidupan kita.
 
 “Ya! ini contoh lite-youtube web komponen terhubung disini.
-
-{% youtube 'Ah6je_bBSH8', 'Alberto Ballesteros - Artista Sin Obra' %}
-
 me entero de nada
 artista sin obra
 “idiotas“
