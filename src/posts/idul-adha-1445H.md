@@ -1,5 +1,5 @@
 ---
-title: 'Selamat Hari Raya Idul Adha 1445 H/2024 '
+title: 'Selamat Hari Raya Idul Adha 1445H '
 description: "Taqabbalallahu minna wa minkum! Semoga Allah memberkati semua kehidupan kita."
 date: 2024-06-17
 youtube: true
