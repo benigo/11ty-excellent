@@ -12,12 +12,12 @@ Penetapan awal penanggalan hijriah atau awal Tahun Baru Islam merujuk pada peris
 ## Pawai Obor @Taman Dramaga Permai II Bogor
 
 {% youtube 'MH5s_Htd0_8', 'beni zo - Pawai Obor TDP2 Tahun Baru Islam 1446H/2024' %}
-
-Bulan sabit tersenyum lembut, ditemani bintang yang indah, gerimis hujan menyertainya.
 Selamat Tahun Baru Islam 1446 H. 
 Semoga perlindungan-Nya menyertai langkah kita.
 Rahmat dan keberkahan-Nya membawa kesehatan, kebahagiaan, dan kesuksesan.
 —Amin.
+
+Bulan sabit tersenyum lembut, ditemani bintang yang indah, gerimis hujan menyertainya.
 
 “Ya! ini contoh lite-youtube web komponen terhubung disini.
 me entero de nada
