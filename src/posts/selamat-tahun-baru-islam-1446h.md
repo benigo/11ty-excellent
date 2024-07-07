@@ -1,5 +1,5 @@
 ---
-title: 'Selamat Tahun Baru Islam 1446 H '
+title: 'Selamat Tahun Baru Islam 1446H '
 description: "Selamat Tahun Baru Islam 1446 H. 
 Semoga perlindungan-Nya menyertai langkah kita."
 date: 2024-07-07
