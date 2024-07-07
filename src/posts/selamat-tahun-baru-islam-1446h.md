@@ -17,11 +17,11 @@ Semoga perlindungan-Nya menyertai langkah kita.
 Rahmat dan keberkahan-Nya membawa kesehatan, kebahagiaan, dan kesuksesan.
 —Amin.
 
-Bulan sabit tersenyum lembut, ditemani bintang yang indah, gerimis hujan menyertainya.
+Ditemani bintang, bulan sabit tersenyum lembut, gerimis hujan menyertainya.
 
 
+________________________________
 
-Regards,
 “Ya! ini contoh lite-youtube web komponen terhubung disini.
 me entero de nada
 artista sin obra
