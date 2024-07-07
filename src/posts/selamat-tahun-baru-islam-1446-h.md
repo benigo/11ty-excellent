@@ -16,7 +16,7 @@ Rahmat dan keberkahan-Nya membawa kesehatan, kebahagiaan, dan kesuksesan.
 
 ## Pawai Obor @Taman Dramaga Permai II Bogor
 
-{% youtube '09yVurBbrMI', 'beni zo - Idul Adha 1445H/2024' %}
+{% youtube 'MH5s_Htd0_8', 'beni zo - Pawai Obor TDP2 Tahun Baru Islam 1446H/2024' %}
 
 Teks.
 
