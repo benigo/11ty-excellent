@@ -4,11 +4,8 @@ description: "me entero de nada
 artista sin obra
 “idiotas“
 me alegro por ti
-_I find out nothing_
-artist without work
-“idiots“
 I'm happy for you 😛
-Tipe 🄱🄴🅃🄰."
+Tipe 🄱🄴🅃🄰 "
 date: 2024-06-14
 youtube: true
 ---
