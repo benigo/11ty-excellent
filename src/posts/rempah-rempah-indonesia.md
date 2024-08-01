@@ -15,7 +15,7 @@ Saya ingin membelinya di Belanda 😊
 
 ## Referensi
 
-{% imagePlaceholder "./src/assets/images/rempahe2.jpg", "Contoh 1", "Draft rancang model." %}
+{% imagePlaceholder "./src/assets/images/rempahe2.jpg", "Rempah Indonesia", "Kelompom rempah-rempah." %}
 
 You can change the CSS for the page and blog post images in `./src/assets/css/blocks/page.css` and `./src/assets/css/blocks/blog.css`:
 
