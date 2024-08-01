@@ -19,6 +19,7 @@ Saya ingin membelinya di Belanda 😊
 
 Rempah-rempah yang dibutuhkan Eropa sebagian besar terdapat di Indonesia, seperti contohnya cengkeh, pala, dan lada.
 
+{% imagePlaceholder "./src/assets/images/rempahe3.jpg", "Rempah Indonesia", "Kelompok rempah-rempah." %}
 
 ```css
 .page img {
