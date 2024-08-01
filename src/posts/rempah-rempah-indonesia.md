@@ -10,7 +10,7 @@ Dimana cari kemasan rempah rempah seperti ini
 
 ### Contoh model
 
-{% imagePlaceholder "./src/assets/images/opengraph-default.jpg", "The preview for social media", "An interesting caption text." %}
+{% imagePlaceholder "./src/assets/images/rempahe1.jpg", "Contoh 1", "Draft rancang model." %}
 
 ## Referensi
 
