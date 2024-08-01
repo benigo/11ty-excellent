@@ -15,9 +15,10 @@ Saya ingin membelinya di Belanda 😊
 
 ## Referensi
 
-{% imagePlaceholder "./src/assets/images/rempahe2.jpg", "Rempah Indonesia", "Kelompom rempah-rempah." %}
+{% imagePlaceholder "./src/assets/images/rempahe2.jpg", "Rempah Indonesia", "Kelompok rempah-rempah." %}
 
-You can change the CSS for the page and blog post images in `./src/assets/css/blocks/page.css` and `./src/assets/css/blocks/blog.css`:
+Rempah-rempah yang dibutuhkan Eropa sebagian besar terdapat di Indonesia, seperti contohnya cengkeh, pala, dan lada.
+
 
 ```css
 .page img {
