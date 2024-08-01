@@ -1,6 +1,6 @@
 ---
 title: 'Rempah —Draft '
-description: "Rempah-rempah Indonesi dibutuhkan di Eropa."
+description: "Rempah-rempah Indonesia dibutuhkan di Eropa. "
 date: 2024-08-01
 ---
 
