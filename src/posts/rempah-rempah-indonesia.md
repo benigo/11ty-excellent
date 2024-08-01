@@ -6,7 +6,8 @@ date: 2024-08-01
 
 💡Sebelum orang lain mendahului;
 Packing semua kelompok rempah-rempah Indonesia seperti ini, lalu copyrights © 
-Dimana cari kemasan rempah rempah seperti ini
+Dimana cari kemasan rempah rempah seperti ini?
+Saya ingin membelinya di Belanda 😊
 
 ### Contoh model
 
