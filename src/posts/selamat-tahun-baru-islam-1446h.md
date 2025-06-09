@@ -3,7 +3,8 @@ title: 'Selamat Tahun Baru Islam 1446H '
 description: "Selamat Tahun Baru Islam 1446H/2024. 
 Semoga perlindungan-Nya menyertai langkah kita. —Amin."
 date: 2024-07-07
-youtube: true
+youtube: true 
+image: https://versibeta.github.io/tobeni.jpg
 ---
 
 Tahun Baru Islam menandakan hari pertama dalam penanggalan Hijriah atau kalender Islam yaitu 1 Muharram 1 Hijriah.
